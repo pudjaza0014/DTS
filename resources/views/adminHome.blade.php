@@ -16,7 +16,8 @@
 
                     {{ __('You are logged in!') }}
 
-                    You are admin.
+                    {{ __(' You are admin.') }}
+ 
                 </div>
             </div>
         </div>
